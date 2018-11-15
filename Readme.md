@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ToggleSwitch/Form1.cs) (VB: [Form1.vb](./VB/ToggleSwitch/Form1.vb))
+* [Program.cs](./CS/ToggleSwitch/Program.cs) (VB: [Program.vb](./VB/ToggleSwitch/Program.vb))
+* [RepositoryItemToggleSwitch.cs](./CS/ToggleSwitch/ToggleSwitch/RepositoryItemToggleSwitch.cs) (VB: [RepositoryItemToggleSwitch.vb](./VB/ToggleSwitch/ToggleSwitch/RepositoryItemToggleSwitch.vb))
+* [ToggleSwitch.cs](./CS/ToggleSwitch/ToggleSwitch/ToggleSwitch.cs) (VB: [ToggleSwitchPainter.vb](./VB/ToggleSwitch/ToggleSwitch/ToggleSwitchPainter.vb))
+* [ToggleSwitchPainter.cs](./CS/ToggleSwitch/ToggleSwitch/ToggleSwitchPainter.cs) (VB: [ToggleSwitchPainter.vb](./VB/ToggleSwitch/ToggleSwitch/ToggleSwitchPainter.vb))
+* [ToggleSwitchViewInfo.cs](./CS/ToggleSwitch/ToggleSwitch/ToggleSwitchViewInfo.cs) (VB: [ToggleSwitchViewInfo.vb](./VB/ToggleSwitch/ToggleSwitch/ToggleSwitchViewInfo.vb))
+<!-- default file list end -->
 # How to create a Windows 8 style toggle switch control
 
 
